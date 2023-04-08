@@ -1,1 +1,1 @@
-# Sales-Insights-
+# SalesInsights
