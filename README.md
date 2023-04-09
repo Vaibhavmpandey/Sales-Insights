@@ -8,6 +8,8 @@ Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 
 ## AIMS Grid
 By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
+
+
 ![AIMS grid sales insights](https://user-images.githubusercontent.com/117555175/230770518-752831c7-d1ec-4ec4-9928-4fe6c6100386.jpg)
 
 ## Steps followed
