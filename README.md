@@ -24,8 +24,8 @@ By using the AIMS grid project management tool, we made sure what are the purpos
 ![image](https://user-images.githubusercontent.com/117555175/230770765-da149ca5-aef9-4e3b-8ab8-de5d75a18259.png)
 
 ## Key Learnings
-1- Learned about what real business data sets look like.
-2- Learned about how to write some major analysis queries in MySQL.
-3- How to connect the database’s tables to Power Bi and how to clean & modify the unwanted data in Power Query.
-4- Learned about some major practical DAX functions and measures.
-5- Learned about some major analytical visuals and reports.
+1- Learned about what real business data sets look like.  
+2- Learned about how to write some major analysis queries in MySQL.  
+3- How to connect the database’s tables to Power Bi and how to clean & modify the unwanted data in Power Query.  
+4- Learned about some major practical DAX functions and measures.  
+5- Learned about some major analytical visuals and reports.  
