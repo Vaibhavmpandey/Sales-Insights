@@ -11,14 +11,14 @@ By using the AIMS grid project management tool, we made sure what are the purpos
 ![AIMS grid sales insights](https://user-images.githubusercontent.com/117555175/230770518-752831c7-d1ec-4ec4-9928-4fe6c6100386.jpg)
 
 ## Steps followed
-1- Learned about AIMS grid for project planning
-2- Used MySQL for retrieving the data from database into Power BI
-3- Data cleaning in Power Query
-4- Perform ETL process (Extract Transform and Load)
-5- Created measure for needs and used them for creating visuals in PowerBi.
-6- In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
-7- Data Validation
-8- Data Modelling and Visualization.
+1- Learned about AIMS grid for project planning  
+2- Used MySQL for retrieving the data from database into Power BI  
+3- Data cleaning in Power Query  
+4- Perform ETL process (Extract Transform and Load)  
+5- Created measure for needs and used them for creating visuals in PowerBi.  
+6- In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same  
+7- Data Validation  
+8- Data Modelling and Visualization.  
 
 ## Dashboard Power BI
 ![image](https://user-images.githubusercontent.com/117555175/230770765-da149ca5-aef9-4e3b-8ab8-de5d75a18259.png)
